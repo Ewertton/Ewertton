@@ -5,11 +5,11 @@
   <table>
     <tr>
         <td>
-          <img width="495px" align="left" 
+          <img width="475px" align="left" 
                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewertton&hide=html&layout=compact&theme=radical" />
         </td>
       <td>
-           <img width="475px" align="left" 
+           <img width="455px" align="left" 
                 src="https://github-readme-stats.vercel.app/api?username=Ewertton&include_all_commits=true&theme=radical" />
       </td>
     </tr>   
