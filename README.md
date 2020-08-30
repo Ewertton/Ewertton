@@ -2,7 +2,7 @@
 
 
 <center>
-  <table>
+  <table style="overflow:auto">
     <tr>
         <td>
           <img width="475px" align="left" 
