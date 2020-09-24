@@ -19,7 +19,7 @@
         </td>
       <td>
            <img width="455px" align="left" 
-                src="https://github-readme-stats.vercel.app/api?username=Ewertton&include_all_commits=true&theme=radical" />
+                src="https://github-readme-stats.vercel.app/api?username=Ewertton&include_all_commits=true&count_private=true&theme=radical" />
       </td>
     </tr>   
   </table>
