@@ -24,12 +24,12 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="475px" align="left" 
+  <img width="400px" align="left" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewertton&hide=html&layout=compact&theme=radical" />
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="475px" align="left" 
+  <img width="400px" align="left" 
 src="https://github-readme-stats.vercel.app/api?username=Ewertton&include_all_commits=true&count_private=true&theme=radical" />
 </a>
 
